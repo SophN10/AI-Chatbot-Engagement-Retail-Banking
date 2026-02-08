@@ -41,14 +41,14 @@ The findings support **customer-centric and trustworthy AI deployment**, rather 
 ---
 
 ## How to Run
-The notebooks in this repository are fully executed and include all outputs and visualisations.
+The notebooks in this repository document the full analysis workflow and include key outputs and visualisations.
 
 To explore the analysis:
 1. Clone the repository
 2. Open the `.ipynb` files in Jupyter Notebook or VS Code
-3. Review the code, outputs, and figures directly within the notebooks
+3. Review the code, outputs, figures, and documented results directly within the notebooks
 
-No re-execution is required to view results.
+No re-execution is required to understand the methodology or findings.
 
 ---
    
