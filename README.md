@@ -103,7 +103,7 @@ Findings were consistent across both survey and behavioural datasets, reinforcin
 📄 **Full Dissertation (PDF):**  
 [View Dissertation](AI%20Chatbot%20Engagement%20Dissertation.pdf)
 
-📄 **Viva Summary (PDF):**  
+📄 **Dissertation Summary (PDF):**  
 [View Summary](AI%20Chatbot%20Engagement%20Summary.pdf)
 
 ---
