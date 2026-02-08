@@ -77,7 +77,7 @@ Key methods include:
   - Poor escalation to human agents
   - Reliability and consistency issues
 - Relational attributes such as empathy and personalisation play a secondary role compared to trust and functional performance
-![Customer Sentiment Distribution](sentiment_plot.png)
+![View Sentiment Distribution](sentiment_plot.png)
 
 Findings were consistent across both survey and behavioural datasets, reinforcing insight robustness.
 
